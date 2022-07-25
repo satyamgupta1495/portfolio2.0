@@ -1,6 +1,9 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.16.0"
+  },
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
